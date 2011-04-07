@@ -136,8 +136,6 @@ function widget_wp_qype_init(){
         $item[$key] = $field['default'];
       }
     }
-    
-    //$messages = fetch_rss('http://twitterthemen.de/rss/');
 
     // These lines generate our output.
     echo $before_widget . $before_title . '<a href="http://www.qype.com/" class="wp_qype_title_link">'.$item['title'].'</a>'.$after_title;
