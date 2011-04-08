@@ -36,6 +36,3 @@ http://wordpress.org/extend/plugins/one-click-plugin-updater/
 * Active the widget named: WP Qype by dragging and dropping it on the sidebar-section
 * Configure it, through the widget menu.
 
-
-== Screenshots ==
-You can see the plugin working in the bottom right corner on http://qype.com
